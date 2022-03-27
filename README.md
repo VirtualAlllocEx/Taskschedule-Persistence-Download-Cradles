@@ -12,6 +12,9 @@ To bypass all instances of an AV/EDR/EPP in context of creating persistence with
   task scheduler. For example, if you want to escape \" in .vbs to get \" in the taskjob action string you need it to escape with \\\""
   If you need the same in a .js you have to escape \" with \\\\\\"
   
+  ![image](https://user-images.githubusercontent.com/50073731/160269360-ca40c67b-77a7-4bfc-bf0b-f3854cc68246.png)
+
+  
 
 Creds to Daniel Bohannon for his amazing obfuscation tools, many thanks to Daniel.
 
